@@ -2,8 +2,6 @@ class Code_07_BucketSort:
 
     def main():
 
-        # from numpy import arrary
-
         def bucket_sort(arr):
             if arr == [] or len(arr) < 2:
                 return arr
