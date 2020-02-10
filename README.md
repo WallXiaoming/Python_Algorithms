@@ -1,2 +1,3 @@
 # Python_Algorithms
-Python_Algorithms
+Base sort algorithms:
+bubble, select, insert, quick, merge.....
